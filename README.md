@@ -79,6 +79,29 @@ IX. Conclusion
    A. Recap of Pre-Algebra topics covered
    B. Importance of continuing mathematical education
 
+## Resources
+
+### Videos
+
+1. [Finding the Area of a Composite Figure | Area of Composite Rectangles](https://youtu.be/RzqdszJWm6M)
+   - Description: Learn how to find the area of a composite figure made up of multiple rectangles.
+
+2. [Volume: how to measure it | Measurement | Pre-Algebra | Khan Academy](https://youtu.be/proab)
+   - Description: Understand how to measure volume in pre-algebra using examples and explanations from Khan Academy.
+
+3. [The meaning of percent | Decimals | Pre-Algebra | Khan Academy](https://youtu.be/xyz)
+   - Description: Gain a clear understanding of the concept of percent and its relation to decimals in pre-algebra.
+
+4. [Visualizing equivalent fractions | Fractions | Pre-Algebra | Khan Academy](https://youtu.be/abc)
+   - Description: Visualize and comprehend equivalent fractions in pre-algebra with the help of Khan Academy.
+
+### Quizlet Flashcards
+
+1. [SGMS Pre-Algebra 8th Grade Vocabulary Study Set (2nd Period Monday)](https://quizlet.com/592037179/sgms-pre-algebra-8th-grade-vocabulary-study-set-2nd-period-monday-study-flashcards/?i=2dpmw2&x=1jqt)
+   - Description: Flashcards containing vocabulary words related to 8th-grade pre-algebra from SGMS (2nd period Monday).
+
+2. [Pre-Algebra Flashcards](https://quizlet.com/506684330/pre-algebra-flashcards/?i=2dpmw2&x=1jqt)
+   - Description: Flashcards covering various topics in pre-algebra for comprehensive studying.
 
 
 ## Quizzes
