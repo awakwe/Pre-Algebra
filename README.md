@@ -79,6 +79,71 @@ IX. Conclusion
    A. Recap of Pre-Algebra topics covered
    B. Importance of continuing mathematical education
 
+# I. Introduction to Pre-Algebra
+
+## A. Definition of Pre-Algebra
+
+Pre-Algebra is a branch of mathematics that serves as a transitional stage from basic arithmetic to algebra. It introduces fundamental algebraic concepts while reinforcing the arithmetic skills learned in elementary school.
+
+## B. Importance of Pre-Algebra in Mathematics Education
+
+Pre-Algebra plays a crucial role in mathematics education for several reasons:
+
+1. **Foundation for Algebra:** Pre-Algebra lays the groundwork for the study of Algebra. It introduces students to variables, equations, and algebraic expressions, which are the building blocks of Algebra.
+
+2. **Problem-Solving Skills:** Pre-Algebra helps students develop problem-solving skills. It teaches them how to manipulate numbers and variables to solve equations.
+
+3. **Real-World Applications:** Many real-world problems can be solved using the concepts learned in Pre-Algebra. For example, understanding ratios and proportions can help in cooking or baking, and knowledge of percentages can be used when calculating discounts or interest rates.
+
+4. **Preparation for Advanced Math:** Mastery of Pre-Algebra is essential for success in higher-level math courses like Geometry, Algebra II, and Calculus.
+
+Remember, the goal of Pre-Algebra is not just to learn how to solve equations, but to develop a deeper understanding of how numbers and variables work together.
+
+## C. Video Resources
+
+While I couldn't find specific videos on the topic "Introduction to Pre-Algebra", there are several educational YouTube channels that provide comprehensive video tutorials on Pre-Algebra topics. Here are a few recommendations:
+
+- [Khan Academy](https://www.youtube.com/user/khanacademy): Khan Academy offers a wide range of video lessons on various topics, including Pre-Algebra. Their lessons are well-structured and easy to understand.
+
+- [Math Antics](https://www.youtube.com/user/mathantics): Math Antics makes learning math fun and engaging. Their videos cover a wide range of math topics, including Pre-Algebra.
+
+- [PatrickJMT](https://www.youtube.com/user/patrickJMT): PatrickJMT provides clear and concise math lessons. His videos are a great resource for anyone struggling with math concepts.
+
+Remember to use the search function within each channel to find the most relevant content for your study. Happy learning!
+
+# II. Number Systems
+
+## A. Whole Numbers
+
+Whole numbers are the set of all positive integers, including zero. They are used to count objects and represent quantities.
+
+1. **Definition and Properties:** Whole numbers include all natural numbers and zero. They do not include fractions, decimals, or negative numbers. The set of whole numbers is represented as {0, 1, 2, 3, 4, 5, ...}.
+
+2. **Addition, Subtraction, Multiplication, and Division:** Whole numbers follow the basic arithmetic operations. However, note that division of whole numbers does not always result in a whole number.
+
+## B. Integers
+
+Integers are a set of numbers that include all whole numbers and their negatives.
+
+1. **Definition and Properties:** Integers include all positive and negative whole numbers, including zero. The set of integers is represented as {..., -3, -2, -1, 0, 1, 2, 3, ...}.
+
+2. **Absolute Value:** The absolute value of an integer is its distance from zero on the number line, regardless of direction. The absolute value is always positive or zero.
+
+3. **Adding and Subtracting Integers:** When adding or subtracting integers, consider their signs. If they have the same sign, add their absolute values and keep the common sign. If they have different signs, subtract the smaller absolute value from the larger one and keep the sign of the number with the larger absolute value.
+
+## C. Rational Numbers
+
+Rational numbers are numbers that can be expressed as a ratio of two integers.
+
+1. **Definition and Properties:** A rational number is a number that can be written as a fraction a/b where a and b are integers and b ≠ 0. This includes all integers, fractions, and terminating or repeating decimals.
+
+2. **Fractions and Decimals:** Every fraction can be converted to a decimal and vice versa. A fraction is a way of expressing a division operation, and a decimal is another way of expressing a fraction.
+
+3. **Operations with Rational Numbers:** Rational numbers follow the same basic arithmetic operations as integers. However, when dividing rational numbers, remember to multiply by the reciprocal of the divisor.
+
+Remember, understanding the different types of numbers and how they interact is a fundamental part of Pre-Algebra and mathematics as a whole.
+
+
 # Pre-Algebra Resources
 
 
