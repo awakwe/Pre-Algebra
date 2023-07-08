@@ -79,21 +79,35 @@ IX. Conclusion
    A. Recap of Pre-Algebra topics covered
    B. Importance of continuing mathematical education
 
-## Resources
+# Pre-Algebra Resources
 
-### Videos
 
-1. [Finding the Area of a Composite Figure | Area of Composite Rectangles](https://youtu.be/RzqdszJWm6M)
-   - Description: Learn how to find the area of a composite figure made up of multiple rectangles.
 
-2. [Volume: how to measure it | Measurement | Pre-Algebra | Khan Academy](https://youtu.be/proab)
-   - Description: Understand how to measure volume in pre-algebra using examples and explanations from Khan Academy.
+**What's included in the Pre-Algebra Resources section:**
 
-3. [The meaning of percent | Decimals | Pre-Algebra | Khan Academy](https://youtu.be/xyz)
-   - Description: Gain a clear understanding of the concept of percent and its relation to decimals in pre-algebra.
+1. **Videos and Interactive Lessons**: This section includes five links to interactive lessons created from YouTube videos. These lessons cover various pre-algebra topics such as finding the area of composite figures, understanding volume measurement, understanding the meaning of percent, and visualizing equivalent fractions. The lessons are interactive, meaning they provide a more engaging learning experience than just watching a video.
 
-4. [Visualizing equivalent fractions | Fractions | Pre-Algebra | Khan Academy](https://youtu.be/abc)
-   - Description: Visualize and comprehend equivalent fractions in pre-algebra with the help of Khan Academy.
+2. **Flashcards**: This section includes two links to sets of flashcards on Quizlet. The first set is a vocabulary study set specifically for 8th grade pre-algebra students. The second set is a general pre-algebra flashcard set. These flashcards can be used to review and reinforce understanding of pre-algebra vocabulary and concepts.
+
+The resources are all linked to Roshi, an online platform that allows users to create, share, and learn from interactive lessons. The links provided will take you directly to the interactive lessons or flashcards. 
+
+This collection of resources provides a comprehensive guide to pre-algebra concepts, offering both video content for visual and auditory learners, and flashcards for quick review and reinforcement.
+
+
+## Videos and Interactive Lessons
+
+1. [Finding the Area of a Composite Figure | Area of Composite Rectangles](https://www.roshi.ai/lessons?plugin_lesson_id=0GTUDa4S4qrcx20zIrCw)
+2. [Volume: how to measure it | Measurement | Pre-Algebra | Khan Academy](https://www.roshi.ai/lessons?plugin_lesson_id=0PHyUsDDvE36raGqPpLU)
+3. [Proab](https://www.roshi.ai/lessons?plugin_lesson_id=oeWudkXNH8kFkLpmFEfy)
+4. [The meaning of percent | Decimals | Pre-Algebra | Khan Academy](https://www.roshi.ai/lessons?plugin_lesson_id=BLULFFNxTW28gkM1GHM8)
+5. [Visualizing equivalent fractions | Fractions | Pre-Algebra | Khan Academy](https://www.roshi.ai/lessons?plugin_lesson_id=7HkDbHSvY2PmFAzWWcFL)
+
+## Flashcards
+
+1. [SGMS Pre-Algebra 8th Grade Vocabulary Study Set - 2nd Period Monday Study](https://www.roshi.ai/lessons?plugin_lesson_id=BAkpYKNL4GhyUjljvR3u)
+2. [Pre-Algebra Flashcards](https://www.roshi.ai/lessons?plugin_lesson_id=bx1KQuGVP26vzwipRtsp)
+
+These resources provide a comprehensive guide to pre-algebra concepts, including videos and interactive lessons from Khan Academy and Quizlet flashcards for vocabulary review.
 
 ### Quizlet Flashcards
 
