@@ -183,6 +183,27 @@ These resources provide a comprehensive guide to pre-algebra concepts, including
    - Description: Flashcards covering various topics in pre-algebra for comprehensive studying.
 
 
+# Resources Update - 7/11/23
+
+Welcome to our latest update on the Pre-Algebra course resources. We're excited to share new materials and insights that will help enhance your learning experience.
+
+![Pre-Algebra Resource](https://iibawards-prod.s3.amazonaws.com/projects/images/000/000/483/large.png?1467152060)
+
+## New Resources
+
+We've added a number of new resources to our Pre-Algebra course. These include interactive exercises, video tutorials, and practice problems that will help you understand the concepts better.
+
+## Using Pre-Algebra in Real Life: Understanding Patterns and Time Management
+
+Pre-Algebra is not just about numbers and equations. It's a tool that can help us understand and solve real-life problems. One such application is in understanding patterns and managing time effectively.
+
+Consider the daily routines of creatives, as visualized in the image above. Composers, painters, writers, scientists, philosophers – they all find time to produce their work by following rigid daily rituals. Some keep to the same disciplined regimen for decades, while others lock in patterns only while working on specific works.
+
+Understanding these patterns and relationships, a key aspect of pre-algebra, can help us organize our time more effectively. By applying pre-algebraic concepts, we can better understand how to carve out time, every day, to work on our craft or studies.
+
+Stay tuned for more updates and happy learning!
+
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
